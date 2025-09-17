@@ -1,0 +1,489 @@
+---
+title: "Inicio"
+bg_color: "#FAF3E0"    # this refers to the color key in _config.yml
+color: charcoal
+style: center
+---
+
+<!-- photo of us -->
+<div style="
+  width: 100%;
+  aspect-ratio: 1.5;
+  background: url('/assets/img/us_croatia.jpg') no-repeat center center;
+  background-size: cover;
+  border-radius: 8px; /* optional: soften corners */
+">
+</div>
+
+<!-- "Liana y Camille" -->
+<div style="
+  text-align: center;
+  margin: 60px 20px 40px 20px;
+  font-family: 'Playfair Display', serif;
+  font-size: clamp(2em, 6vw, 3.5em); /* responsive font size */
+  color: #2C2C2C;
+  letter-spacing: 2px;
+  line-height: 1.1;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+  white-space: nowrap;
+  overflow: hidden; /* prevents accidental overflow */
+  text-overflow: ellipsis; /* optional: adds ... if it overflows */
+">
+  Liana & Camille
+</div>
+
+
+<!-- Date & Location -->
+<div style="
+  text-align: center;
+  margin: 0 20px 40px 20px;
+  font-family: 'Playfair Display', serif;
+  font-size: 1.5em;                           
+  color: #2C2C2C;                          
+  letter-spacing: 1px;
+  line-height: 1.3;
+  text-shadow: 0.5px 0.5px 1px rgba(0,0,0,0.1);
+">
+  14 de Marzo, 2026 <br>
+  San Salvador,<br>El Salvador
+</div>
+
+
+
+
+<div style="margin-top: 240px;"></div>   <!-- add blank space above -->
+<hr style="border: none; border-top: 1px solid #aaa; margin: 40px auto; width: 60%;">
+
+##############################################################################################
+
+---
+title: "Pre-Boda"
+bg_color: "#FAF3E0"
+color: charcoal
+---
+<div id="Pre-Wedding" style="padding-top: 0px; margin-top: -230px;"> <!-- avoid empty space after auto-scrolling -->
+
+<div style="margin-top: 80px;"></div>   <!-- add blank space above -->
+
+<!-- Date & Location -->
+<div style="
+  text-align: center;
+  margin: 0 20px 40px 20px;
+  font-family: 'Playfair Display', serif;
+  color: #2C2C2C;                          
+  letter-spacing: 1px;
+  line-height: 1.4;
+  text-shadow: 0.5px 0.5px 1px rgba(0,0,0,0.1);
+">
+  <strong>
+    <span style="font-size: 2em;">Día de Playa<br>Pre-Boda</span><br>
+    <br>
+    <span style="font-size: 1.5em;">Jueves, 12 de Marzo, 2026</span><br><br>
+    <span style="font-size: 1.2em;">09:30 — 18:00</span>
+  </strong>
+</div>
+
+<!-- photo of the beach location -->
+<div style="
+  width: 100%;
+  aspect-ratio: 1.5;
+  background: url('/assets/img/beach_pool_cut.png') no-repeat center center;
+  background-size: cover;
+  border-radius: 8px; /* optional: soften corners */
+">
+</div>
+
+
+<!-- Beach Day Info -->
+<div style="
+  color: #2C2C2C;
+  font-family: 'Playfair Display', serif;
+  line-height: 1.5;
+  text-align: center;
+  max-width: 700px;
+  margin: 40px auto;
+">
+
+  <!-- Beach Day Title -->
+  <strong>
+    <div style="font-size: 1.5em; margin-bottom: 0.3em;">
+      Día de Playa en El Sunzal, <br> La Libertad
+    </div>
+  </strong>
+  <div style="font-size: 1.2em; margin-bottom: 1em;">
+    (45 minutos en carro desde San Salvador)
+  </div>
+
+  <!-- Intro Text -->
+  <div style="font-size: 1.2em; margin-bottom: 2em;">
+    ¡Traé tu ropa de playa! <br><br>
+    Para comenzar las celebraciones, invitamos a nuestros amigos y familia del extranjero a disfrutar de un día relajado y divertido con nosotros en la playa.
+  </div>
+
+  <!-- Shuttle Service Info -->
+  <strong>
+    <div style="font-size: 1.5em; margin-bottom: 0.5em;">
+      Servicio de Transporte <br> San Salvador ↔ El Sunzal
+    </div>
+  </strong>
+  <div style="font-size: 1.2em; margin-bottom: 2em;">
+    Se proporcionará transporte a los huéspedes internacionales desde Hotel Sheraton hasta El Sunzal. <br>
+    Hora de recogida en Hotel Sheraton: <strong>09:30 am</strong> <br>
+    Hora de regreso a San Salvador: <strong>18:00 pm</strong>
+  </div>
+
+  <!-- Keep in Mind -->
+  <strong>
+    <div style="font-size: 1.5em; margin-bottom: 0.5em;">
+      Tené en Cuenta
+    </div>
+  </strong>
+  <div style="font-size: 1.2em;">
+    • Traé traje de baño, toalla, lentes de sol, bloqueador, chancletas y ropa liviana. <br>
+    • Se proporcionará comida y bebidas. <br>
+    • Por favor confirmar asistencia con Camille (+33670831699).
+  </div>
+
+</div>
+
+
+
+
+
+
+
+<div style="margin-top: 200px;"></div>   <!-- add blank space above -->
+<hr style="border: none; border-top: 1px solid #aaa; margin: 40px auto; width: 60%;">
+<div style="margin-top: 200px;"></div>   <!-- add blank space above -->
+
+
+
+
+
+
+
+
+<!-- Date & Location -->
+<div style="
+  text-align: center;
+  margin: 0 20px 40px 20px;
+  font-family: 'Playfair Display', serif;
+  color: #2C2C2C;                          
+  letter-spacing: 1px;
+  line-height: 1.4;
+  text-shadow: 0.5px 0.5px 1px rgba(0,0,0,0.1);
+">
+  <strong>
+    <span style="font-size: 2em;">Día en Ataco<br>Pre-Boda</span><br>
+    <br>
+    <span style="font-size: 1.5em;">Viernes, 13 de Marzo, 2026</span><br><br>
+    <span style="font-size: 1.2em;">08:30 — 16:00</span>
+  </strong>
+</div>
+
+<!-- photo of the location -->
+<div style="
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  background: url('/assets/img/ataco.jpg') no-repeat center center;
+  background-size: cover;
+  border-radius: 8px; /* optional: soften corners */
+">
+</div>
+
+
+<!-- Ataco Day Info -->
+<div style="
+  color: #2C2C2C;
+  font-family: 'Playfair Display', serif;
+  line-height: 1.5;
+  text-align: center;
+  max-width: 700px;
+  margin: 40px auto;
+">
+
+  <!-- Ataco Day Title -->
+  <strong>
+    <div style="font-size: 1.5em; margin-bottom: 0.3em;">
+      Día en la casa de campo de Ataco y el pueblo
+    </div>
+  </strong>
+  <div style="font-size: 1.2em; margin-bottom: 1em;">
+    (1.5-2 horas en carro desde San Salvador)
+  </div>
+
+  <!-- Intro Text -->
+  <div style="font-size: 1.2em; margin-bottom: 2em;">
+    Invitamos cordialmente a los amigos y familia que viajan del extranjero a acompañarnos para almorzar en la casa de campo de Liana, seguido de una visita a Ataco, un pueblo encantador en las montañas de El Salvador.
+  </div>
+
+  <!-- Shuttle Service Info -->
+  <strong>
+    <div style="font-size: 1.5em; margin-bottom: 0.5em;">
+      Servicio de Transporte <br> San Salvador ↔ Ataco
+    </div>
+  </strong>
+  <div style="font-size: 1.2em; margin-bottom: 2em;">
+    Se proporcionará transporte a los huéspedes internacionales desde Hotel Sheraton hasta Ataco. <br>
+    Hora de recogida en Hotel Sheraton: <strong>08:30 am</strong> <br>
+    Hora de regreso a San Salvador: <strong>16:00 pm</strong>
+  </div>
+
+  <!-- Keep in Mind -->
+  <strong>
+    <div style="font-size: 1.5em; margin-bottom: 0.5em;">
+      Tené en Cuenta
+    </div>
+  </strong>
+  <div style="font-size: 1.2em;">
+    • Empacá un par de zapatos cómodos para que puedas explorar el pueblo fácilmente.<br>
+    • Se proporcionará comida y bebidas.<br>
+    • Por favor confirmar asistencia con Camille (+33670831699).
+  </div>
+
+</div>
+
+<div style="margin-top: 200px;"></div>   <!-- add blank space above -->
+<hr style="border: none; border-top: 1px solid #aaa; margin: 40px auto; width: 60%;">
+
+##############################################################################################
+
+---
+title: "Fiesta de Boda"
+bg_color: "#FAF3E0"
+color: charcoal
+style: center
+---
+
+<div id="Pre-Wedding" style="padding-top: 0px; margin-top: -230px;"> <!-- avoid empty space after auto-scrolling -->
+
+<div style="margin-top: 80px;"></div>   <!-- add blank space above -->
+
+<!-- The Venue -->
+<div style="
+  text-align: center;
+  margin: 0 20px 40px 20px;
+  font-family: 'Playfair Display', serif;
+  font-size: 2em;                           /* big but smaller than names */
+  color: #2C2C2C;                            /* softer accent color */
+  letter-spacing: 1px;
+  line-height: 1.2;
+  text-shadow: 0.5px 0.5px 1px rgba(0,0,0,0.1);
+">
+  <strong>El Lugar</strong>
+</div>
+
+
+<!-- photo of the Venue -->
+<div style="
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  background: url('/assets/img/venue_foret_inst_1_cut_3.png') no-repeat center center;
+  background-size: cover;
+  border-radius: 8px; /* optional: soften corners */
+">
+</div>
+
+
+<!-- text about the venue -->
+<div style="
+  color: #2C2C2C;
+  font-family: 'Playfair Display', serif;
+  line-height: 1.5;
+  text-align: center;
+  max-width: 700px;
+  margin: 40px auto;
+">
+  <p style="font-size: 1.2em;">
+    Nuestra boda se llevará a cabo en el lugar 'Fôret', a solo 15 minutos de la ciudad, en las colinas de Comasagua. Con su amplia terraza, gran jardín y vistas impresionantes, ¡sentimos que era el lugar perfecto para decir <em>sí</em> y celebrar con vos!
+  </p>
+</div>
+
+<!-- Google Maps Button -->
+<div style="text-align: center; margin-top: 20px;">
+  <a href="https://maps.app.goo.gl/UUYhwFLp6w7YjkA89" target="_blank" 
+     style="
+       display: inline-block;
+       background-color: #2C2C2C;   /* warm accent */
+       color: #fff;
+       font-family: 'Playfair Display', serif;
+       font-size: 1.2em;
+       padding: 12px 30px;
+       border-radius: 30px;
+       text-decoration: none;
+       transition: background-color 0.3s ease;
+     "
+     onmouseover="this.style.backgroundColor='#8B5E3C'"
+     onmouseout="this.style.backgroundColor='#6B4226'">
+    Ver en Google Maps
+  </a>
+</div>
+
+
+
+<div style="margin-top: 120px;"></div>   <!-- add blank space above -->
+<hr style="border: none; border-top: 1px solid #aaa; margin: 40px auto; width: 60%;">
+<div style="margin-top: 120px;"></div>   <!-- add blank space above -->
+
+
+
+<!-- Wedding Party -->
+<div style="
+  color: #2C2C2C;
+  font-family: 'Playfair Display', serif;
+  line-height: 1.5;
+  text-align: center;
+  max-width: 700px;
+  margin: 40px auto;
+">
+  <!-- Title -->
+  <strong>
+    <div style="font-size: 2em; margin-bottom: 0.5em;">
+      Fiesta de Boda<br><br>
+    </div>
+  </strong>
+
+  <!-- Image of the attire (centered) -->
+  <div style="display: flex; justify-content: center; margin-bottom: 0.3em;">
+    <div style="
+      width: 50%;
+      aspect-ratio: 1 / 1;
+      background: url('/assets/img/attire_gemini.png') no-repeat center center;
+      background-size: contain; /* keeps proportions */
+      border-radius: 8px; /* optional: soften corners */
+    "></div>
+  </div>
+
+  <!-- Attire -->
+  <strong>
+    <div style="font-size: 1.5em; margin-bottom: 0.5em;">
+      Vestimenta: Formal
+    </div>
+  </strong>
+  <div style="font-size: 1.2em; margin-bottom: 2em;">
+    Trajes, corbatas, vestidos largos y vestidos de gala. <br><br>
+    Si usás vestido o vestido de gala, recomendamos un chal o chaqueta liviana ya que puede hacer frío en la noche. <br><br>
+    Por favor considerá el pasto al elegir zapatos.<br><br>
+  </div>
+
+
+  <!-- Civil Ceremony -->
+  <strong>
+    <div style="font-size: 1.5em; margin-bottom: 0.5em;">
+      Ceremonia Civil
+    </div>
+  </strong>
+  <div style="font-size: 1.2em; margin-bottom: 2em;">
+    La ceremonia civil se llevará a cabo en el mismo lugar que el resto del evento, seguida de un cóctel de recepción, cena y fiesta.
+  </div>
+
+</div>
+
+
+<div style="margin-top: 200px;"></div>   <!-- add blank space above -->
+<hr style="border: none; border-top: 1px solid #aaa; margin: 40px auto; width: 60%;">
+
+##############################################################################################
+
+---
+title: "Lista de Regalos"
+bg_color: "#FAF3E0"
+color: charcoal
+style: center
+---
+
+<div id="Pre-Wedding" style="padding-top: 0px; margin-top: -230px;"> <!-- avoid empty space after auto-scrolling -->
+
+<div style="margin-top: 80px;"></div>   <!-- add blank space above -->
+
+<!-- text -->
+<div style="
+  text-align: center;
+  margin: 0 20px 40px 20px;
+  font-family: 'Playfair Display', serif;
+  font-size: 2em;                           /* big but smaller than names */
+  color: #2C2C2C;                            /* softer accent color */
+  letter-spacing: 1px;
+  line-height: 1.2;
+  text-shadow: 0.5px 0.5px 1px rgba(0,0,0,0.1);
+">
+  <strong>Lista de Regalos</strong>
+</div>
+
+
+  <!-- Intro text -->
+  <div style="
+  color: #2C2C2C;
+  font-family: 'Playfair Display', serif;
+  line-height: 1.5;
+  text-align: center;
+  max-width: 700px;
+  margin: 40px auto;
+">
+  <p style="font-size: 1.2em;">
+    ¡Tenerte con nosotros en nuestro día de boda es el mejor regalo! Como nuestra vida está llena de viajes y cambios, estaríamos agradecidos por regalos que sean principalmente monetarios, ayudándonos a crear recuerdos dondequiera que la vida nos lleve.
+  </p>
+</div>
+
+
+  <!-- LINKS for regalos -->
+<div style="display: flex; flex-direction: column; gap: 20px; max-width: 500px; margin: 40px auto;">
+
+  <!-- Cash Gift -->
+  <a href="YOUR_CASH_GIFT_LINK" target="_blank" style="
+      text-decoration: none;
+      padding: 20px;
+      border: 2px solid #9f7148ff;
+      border-radius: 12px;
+      background-color: #FAF3E0;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+      font-family: 'Playfair Display', serif;
+      text-align: center;
+      color: #2C2C2C;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+  " onmouseover="this.style.transform='scale(1.03)';this.style.boxShadow='0 6px 10px rgba(0,0,0,0.1)'" 
+     onmouseout="this.style.transform='scale(1)';this.style.boxShadow='0 4px 6px rgba(0,0,0,0.05)'">
+    <strong style="font-size: 1.4em;">Pórtico Real
+</strong>
+  </a>
+
+  <!-- Siman -->
+  <a href="YOUR_SIMAN_LINK" target="_blank" style="
+      text-decoration: none;
+      padding: 20px;
+      border: 2px solid #9f7148ff;
+      border-radius: 12px;
+      background-color: #FAF3E0;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+      font-family: 'Playfair Display', serif;
+      text-align: center;
+      color: #2C2C2C;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+  " onmouseover="this.style.transform='scale(1.03)';this.style.boxShadow='0 6px 10px rgba(0,0,0,0.1)'" 
+     onmouseout="this.style.transform='scale(1)';this.style.boxShadow='0 4px 6px rgba(0,0,0,0.05)'">
+    <strong style="font-size: 1.4em;">Siman</strong>
+  </a>
+
+  <!-- Zola -->
+  <a href="YOUR_ZOLA_LINK" target="_blank" style="
+      text-decoration: none;
+      padding: 20px;
+      border: 2px solid #9f7148ff;
+      border-radius: 12px;
+      background-color: #FAF3E0;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+      font-family: 'Playfair Display', serif;
+      text-align: center;
+      color: #2C2C2C;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+  " onmouseover="this.style.transform='scale(1.03)';this.style.boxShadow='0 6px 10px rgba(0,0,0,0.1)'" 
+     onmouseout="this.style.transform='scale(1)';this.style.boxShadow='0 4px 6px rgba(0,0,0,0.05)'">
+    <strong style="font-size: 1.4em;">Zola</strong>
+  </a>
+
+</div>
+
+<div style="margin-top: 200px;"></div>   <!-- add blank space above -->
+<hr style="border: none; border-top: 1px solid #aaa; margin: 40px auto; width: 60%;">
+
+##############################################################################################

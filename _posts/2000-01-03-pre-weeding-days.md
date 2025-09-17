@@ -1,0 +1,189 @@
+---
+title: "Pre-Boda"
+bg_color: "#FAF3E0"
+color: charcoal
+---
+<div id="Pre-Wedding" style="padding-top: 0px; margin-top: -230px;"> <!-- avoid empty space after auto-scrolling -->
+
+<div style="margin-top: 80px;"></div>   <!-- add blank space above -->
+
+<!-- Date & Location -->
+<div style="
+  text-align: center;
+  margin: 0 20px 40px 20px;
+  font-family: 'Playfair Display', serif;
+  color: #2C2C2C;                          
+  letter-spacing: 1px;
+  line-height: 1.4;
+  text-shadow: 0.5px 0.5px 1px rgba(0,0,0,0.1);
+">
+  <strong>
+    <span style="font-size: 2em;">Día de Playa<br>Pre-Boda</span><br>
+    <br>
+    <span style="font-size: 1.5em;">Jueves, 12 de Marzo, 2026</span><br><br>
+    <span style="font-size: 1.2em;">09:30 — 18:00</span>
+  </strong>
+</div>
+
+<!-- photo of the beach location -->
+<div style="
+  width: 100%;
+  aspect-ratio: 1.5;
+  background: url('/assets/img/beach_pool_cut.png') no-repeat center center;
+  background-size: cover;
+  border-radius: 8px; /* optional: soften corners */
+">
+</div>
+
+
+<!-- Beach Day Info -->
+<div style="
+  color: #2C2C2C;
+  font-family: 'Playfair Display', serif;
+  line-height: 1.5;
+  text-align: center;
+  max-width: 700px;
+  margin: 40px auto;
+">
+
+  <!-- Beach Day Title -->
+  <strong>
+    <div style="font-size: 1.5em; margin-bottom: 0.3em;">
+      Día de Playa en El Sunzal, <br> La Libertad
+    </div>
+  </strong>
+  <div style="font-size: 1.2em; margin-bottom: 1em;">
+    (45 minutos en carro desde San Salvador)
+  </div>
+
+  <!-- Intro Text -->
+  <div style="font-size: 1.2em; margin-bottom: 2em;">
+    ¡Traé tu ropa de playa! <br><br>
+    Para comenzar las celebraciones, invitamos a nuestros amigos y familia del extranjero a disfrutar de un día relajado y divertido con nosotros en la playa.
+  </div>
+
+  <!-- Shuttle Service Info -->
+  <strong>
+    <div style="font-size: 1.5em; margin-bottom: 0.5em;">
+      Servicio de Transporte <br> San Salvador ↔ El Sunzal
+    </div>
+  </strong>
+  <div style="font-size: 1.2em; margin-bottom: 2em;">
+    Se proporcionará transporte a los huéspedes internacionales desde Hotel Sheraton hasta El Sunzal. <br>
+    Hora de recogida en Hotel Sheraton: <strong>09:30 am</strong> <br>
+    Hora de regreso a San Salvador: <strong>18:00 pm</strong>
+  </div>
+
+  <!-- Keep in Mind -->
+  <strong>
+    <div style="font-size: 1.5em; margin-bottom: 0.5em;">
+      Tené en Cuenta
+    </div>
+  </strong>
+  <div style="font-size: 1.2em;">
+    • Traé traje de baño, toalla, lentes de sol, bloqueador, chancletas y ropa liviana. <br>
+    • Se proporcionará comida y bebidas. <br>
+    • Por favor confirmar asistencia con Camille (+33670831699).
+  </div>
+
+</div>
+
+
+
+
+
+
+
+<div style="margin-top: 200px;"></div>   <!-- add blank space above -->
+<hr style="border: none; border-top: 1px solid #aaa; margin: 40px auto; width: 60%;">
+<div style="margin-top: 200px;"></div>   <!-- add blank space above -->
+
+
+
+
+
+
+
+
+<!-- Date & Location -->
+<div style="
+  text-align: center;
+  margin: 0 20px 40px 20px;
+  font-family: 'Playfair Display', serif;
+  color: #2C2C2C;                          
+  letter-spacing: 1px;
+  line-height: 1.4;
+  text-shadow: 0.5px 0.5px 1px rgba(0,0,0,0.1);
+">
+  <strong>
+    <span style="font-size: 2em;">Día en Ataco<br>Pre-Boda</span><br>
+    <br>
+    <span style="font-size: 1.5em;">Viernes, 13 de Marzo, 2026</span><br><br>
+    <span style="font-size: 1.2em;">08:30 — 16:00</span>
+  </strong>
+</div>
+
+<!-- photo of the location -->
+<div style="
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  background: url('/assets/img/ataco.jpg') no-repeat center center;
+  background-size: cover;
+  border-radius: 8px; /* optional: soften corners */
+">
+</div>
+
+
+<!-- Ataco Day Info -->
+<div style="
+  color: #2C2C2C;
+  font-family: 'Playfair Display', serif;
+  line-height: 1.5;
+  text-align: center;
+  max-width: 700px;
+  margin: 40px auto;
+">
+
+  <!-- Ataco Day Title -->
+  <strong>
+    <div style="font-size: 1.5em; margin-bottom: 0.3em;">
+      Día en la casa de campo de Ataco y el pueblo
+    </div>
+  </strong>
+  <div style="font-size: 1.2em; margin-bottom: 1em;">
+    (1.5-2 horas en carro desde San Salvador)
+  </div>
+
+  <!-- Intro Text -->
+  <div style="font-size: 1.2em; margin-bottom: 2em;">
+    Invitamos cordialmente a los amigos y familia que viajan del extranjero a acompañarnos para almorzar en la casa de campo de Liana, seguido de una visita a Ataco, un pueblo encantador en las montañas de El Salvador.
+  </div>
+
+  <!-- Shuttle Service Info -->
+  <strong>
+    <div style="font-size: 1.5em; margin-bottom: 0.5em;">
+      Servicio de Transporte <br> San Salvador ↔ Ataco
+    </div>
+  </strong>
+  <div style="font-size: 1.2em; margin-bottom: 2em;">
+    Se proporcionará transporte a los huéspedes internacionales desde Hotel Sheraton hasta Ataco. <br>
+    Hora de recogida en Hotel Sheraton: <strong>08:30 am</strong> <br>
+    Hora de regreso a San Salvador: <strong>16:00 pm</strong>
+  </div>
+
+  <!-- Keep in Mind -->
+  <strong>
+    <div style="font-size: 1.5em; margin-bottom: 0.5em;">
+      Tené en Cuenta
+    </div>
+  </strong>
+  <div style="font-size: 1.2em;">
+    • Empacá un par de zapatos cómodos para que puedas explorar el pueblo fácilmente.<br>
+    • Se proporcionará comida y bebidas.<br>
+    • Por favor confirmar asistencia con Camille (+33670831699).
+  </div>
+
+</div>
+
+<div style="margin-top: 200px;"></div>   <!-- add blank space above -->
+<hr style="border: none; border-top: 1px solid #aaa; margin: 40px auto; width: 60%;">
