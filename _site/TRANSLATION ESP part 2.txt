@@ -1,0 +1,514 @@
+<div id="Pre-Wedding" style="padding-top: 0px; margin-top: -200px;"> <!-- avoid empty space after auto-scrolling -->
+
+<div style="margin-top: 80px;"></div>   <!-- add blank space above -->
+
+<!-- Getting Here Section -->
+<div style="
+  color: #2C2C2C;
+  font-family: 'Playfair Display', serif;
+  line-height: 1.6;
+  text-align: center;
+  max-width: 800px;
+  margin: 40px auto;
+">
+
+  <!-- Section Title -->
+  <strong>
+    <div style="font-size: 2em; margin-bottom: 2em;">
+      Cómo Llegar
+    </div>
+  </strong>
+
+  <!-- Airport -->
+  <strong>
+    <div style="font-size: 1.5em; margin-bottom: 0.5em;">
+      Aeropuerto
+    </div>
+  </strong>
+  <div style="font-size: 1.2em; text-align: center; margin-bottom: 1.5em;">
+    Debes llegar al Aeropuerto Internacional Óscar Arnulfo Romero. ¡No te preocupes, es el único aeropuerto internacional, así que definitivamente llegarás aquí! Está a unos 45 minutos de San Salvador.<br><br>
+  </div>
+
+  <!-- Getting to San Salvador -->
+  <strong>
+    <div style="font-size: 1.5em; margin-bottom: 0.5em;">
+      Cómo Llegar a San Salvador
+    </div>
+  </strong>
+  <div style="font-size: 1.2em; text-align: center; margin-bottom: 1.5em;">
+    <strong>Taxi:</strong> Los Taxis Acacya usualmente están esperando afuera del aeropuerto. La tarifa es alrededor de $30—35 USD. Si llegas tarde en la noche, es mejor reservar con anticipación.
+  </div>
+  <div style="font-size: 1.2em; text-align: center; margin-bottom: 1.5em;">
+    <strong>Servicio de Transporte:</strong> Don Bosco Travel — Contacto: +503 7820-5478. La tarifa es alrededor de $$$.<br><br>
+  </div>
+
+  <!-- Hotels -->
+  <strong>
+    <div style="font-size: 1.5em; margin-bottom: 0.5em;">
+      Hoteles
+    </div>
+  </strong>
+  <div style="font-size: 1.2em; text-align: center; margin-bottom: 1em;">
+    Descuentos especiales con los hoteles de abajo están disponibles para nuestros invitados de boda
+  </div>
+
+<!-- Hotel Boxes -->
+<div style="
+  display: flex;
+  overflow-x: auto;
+  gap: 20px;
+  padding: 10px 0;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  margin-bottom: 5em;
+">
+  <!-- Hotel 1 -->
+  <div style="
+    min-width: 280px;
+    flex: 0 0 auto;
+    border: 2px solid #9f7148ff;
+    border-radius: 12px;
+    background-color: #FAF3E0;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+    text-align: center;
+    scroll-snap-align: start;
+  ">
+    <a href="https://www.marriott.com/es/hotels/salsi-sheraton-presidente-san-salvador-hotel/overview/" target="_blank" style="text-decoration: none; color: inherit;">
+      <div style="
+        width: 100%;
+        aspect-ratio: 1.5;
+        background: url('/assets/img/hotel_Sheraton.png') no-repeat center center;
+        background-size: cover;
+        border-radius: 12px 12px 0 0;
+      "></div>
+    </a>
+    <div style="padding: 15px; font-size: 1em; color: #2C2C2C;">
+      <strong>Sheraton Presidente</strong><br>
+      <em>enlace de descuento</em><br>
+    </div>
+  </div>
+
+  <!-- Hotel 2 -->
+  <div style="
+    min-width: 280px;
+    flex: 0 0 auto;
+    border: 2px solid #9f7148ff;
+    border-radius: 12px;
+    background-color: #FAF3E0;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+    text-align: center;
+    scroll-snap-align: start;
+  ">
+    <a href="https://www.hilton.com/es/hotels/salsahh-hilton-san-salvador/" target="_blank" style="text-decoration: none; color: inherit;">
+      <div style="
+        width: 100%;
+        aspect-ratio: 1.5;
+        background: url('/assets/img/hotel_Hilton.png') no-repeat center center;
+        background-size: cover;
+        border-radius: 12px 12px 0 0;
+      "></div>
+    </a>
+    <div style="padding: 15px; font-size: 1em; color: #2C2C2C;">
+      <strong>Hilton</strong><br>
+      <em>enlace de descuento</em><br>
+    </div>
+  </div>
+
+  <!-- Hotel 3 -->
+  <div style="
+    min-width: 280px;
+    flex: 0 0 auto;
+    border: 2px solid #9f7148ff;
+    border-radius: 12px;
+    background-color: #FAF3E0;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+    text-align: center;
+    scroll-snap-align: start;
+  ">
+    <a href="https://www.hyatt.com/en-US/group-booking/SALCT/G-BOLV" target="_blank" style="text-decoration: none; color: inherit;">
+      <div style="
+        width: 100%;
+        aspect-ratio: 1.5;
+        background: url('/assets/img/hotel_Hyatt.png') no-repeat center center;
+        background-size: cover;
+        border-radius: 12px 12px 0 0;
+      "></div>
+    </a>
+    <div style="padding: 15px; font-size: 1em; color: #2C2C2C;">
+      <strong>Hyatt Centric</strong><br>
+      <em>
+      <a href="https://www.hyatt.com/en-US/group-booking/SALCT/G-BOLV" target="_blank">enlace de descuento</a>
+      </em><br>
+    </div>
+  </div>
+</div>
+
+
+<!-- Airbnbs -->
+<strong>
+  <div style="font-size: 1.5em; margin-bottom: 0.5em; text-align: center;">
+    Airbnbs
+  </div>
+</strong>
+<div style="font-size: 1.2em; text-align: center; margin-bottom: 1em;">
+  Si prefieres reservar un Airbnb, recomendamos buscar en esta área para mantenerte cerca de los puntos de recogida designados para los eventos de la boda.
+</div>
+
+<div style="position: relative; display: inline-block; margin-bottom: 5em;">
+  <a href="https://www.google.com/maps/d/viewer?ll=13.693507291554107%2C-89.23335464155812&z=14&mid=1VJyy6wT90dj4-K77z-veWqQ4x-HwmPU" target="_blank">
+    <img src="/assets/img/airbnb_map.png" alt="Área recomendada de Airbnb"
+         style="max-width: 100%; height: auto; border-radius: 8px;
+                box-shadow: 0 4px 6px rgba(0,0,0,0.1); cursor: pointer;">
+    <span style="position: absolute; bottom: 10px; right: 10px;
+                 background: rgba(255,255,255,0.9); padding: 4px 8px;
+                 border-radius: 6px; font-size: 0.9em; color: #333;">
+      Abrir en Google Maps
+    </span>
+  </a>
+</div>
+
+
+
+
+  <!-- Keep in Mind  -->
+  <strong>
+    <div style="font-size: 1.5em; margin-bottom: 0.5em;">
+      Ten en Cuenta
+    </div>
+  </strong>
+  <div style="font-size: 1.2em; text-align: center;">
+    • Asegúrate de tener un pasaporte válido.<br>
+    • Para ciudadanos de la U.E. viajando a través de EE.UU.: asegúrate de tener un ESTA válido.<br>
+    • ¡No hay vacunas requeridas para entrar a El Salvador!<br>
+    • El Salvador usa las mismas tomas eléctricas que EE.UU. (Tipo A y Tipo B), trae un adaptador si es necesario.
+  </div>
+
+</div>
+
+
+<div style="margin-top: 200px;"></div>   <!-- add blank space above -->
+<hr style="border: none; border-top: 1px solid #aaa; margin: 40px auto; width: 60%;">
+
+########################################################################################
+
+---
+title: "Qué Hacer"
+bg_color: "#FAF3E0"
+color: charcoal
+style: center
+---
+
+<div id="Pre-Wedding" style="padding-top: 0px; margin-top: -200px;"> <!-- avoid empty space after auto-scrolling -->
+
+<div style="margin-top: 80px;"></div>   <!-- add blank space above -->
+
+
+<div style="
+  color: #2C2C2C;
+  font-family: 'Playfair Display', serif;
+  line-height: 1.5;
+  text-align: center;
+  max-width: 800px;
+  margin: 40px auto;
+">
+
+  <!-- Section Title -->
+  <strong>
+    <div style="font-size: 2em; margin-bottom: 1em;">
+      Qué hacer en El Salvador
+    </div>
+  </strong>
+</div>
+
+<!-- photo for introducing the section -->
+<div style="
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  background: url('/assets/img/conchagua_sunrise_cut.png') no-repeat center center;
+  background-size: cover;
+  border-radius: 8px; /* optional: soften corners */
+">
+</div>
+
+<!-- intro text-->
+<div style="
+  color: #2C2C2C;
+  font-family: 'Playfair Display', serif;
+  line-height: 1.5;
+  text-align: center;
+  max-width: 700px;
+  margin: 40px auto;
+">
+  <p style="font-size: 1.5em;">
+    <br><em>Nuestras sugerencias seleccionadas para explorar el país:</em><br>
+  </p>
+</div>
+
+<!-- Things to Do Around El Salvador -->
+<div style="
+  color: #2C2C2C;
+  font-family: 'Playfair Display', serif;
+  line-height: 1.5;
+  text-align: center;
+  max-width: 800px;
+  margin: 40px auto;
+">
+
+  <!-- Day Trips -->
+  <strong>
+    <div style="font-size: 1.5em; margin-bottom: 0.5em;">
+      Paseos de Un Día
+    </div>
+  </strong>
+
+  <div style="font-size: 1.2em; margin-bottom: 2em; text-align: left;">
+    
+  <p><strong>Playas de La Libertad:</strong> Solo 45 mins de San Salvador
+    <ul style="list-style-type: disc; margin-left: 20px;">
+      <li><strong><a href="https://maps.app.goo.gl/xPSCDr3fcoGcoWz19" target="_blank">El Tunco</a>:</strong> Ve a cualquiera de los restaurantes y bares alrededor en el pequeño pueblo surfero. ¡No te pierdas <a href="https://maps.app.goo.gl/VzBZRBUpD7XnF5CC6" target="_blank">los baos</a>!</li>
+      <li><strong><a href="https://maps.app.goo.gl/MkzRkMKSJdvKeHXA6" target="_blank">El Zonte</a>:</strong> Toma una lección de surf, patina en el bowl, o disfruta comida y bebidas en uno de los restaurantes/bares junto a la playa.</li>
+      <li><strong><a href="https://maps.app.goo.gl/b2nvLTyxfeMC9RSv6" target="_blank">La Hola</a>:</strong> Deliciosos mariscos y bebidas con excelente vista al océano.</li>
+      <li><strong><a href="https://maps.app.goo.gl/uCH54PrFxH6US3qD8" target="_blank">Puro Surf</a>:</strong> Academia de surf + restaurante. Prueba surf-skating si te sientes aventurero.</li>
+      <li><strong><a href="https://maps.app.goo.gl/Ktmxx8yydFtX8ALr8" target="_blank">Cascadas de Tamanique</a>:</strong> Aproximadamente una hora de distancia. Caminata intermedia hacia cascadas impresionantes. Para un guía, contacta a Vladi (+503 7099 1445).</li>
+    </ul>
+  </p>
+
+  <p><strong><a href="https://maps.app.goo.gl/BDCcdyCuwMfL3CmX8" target="_blank">Centro Histórico de San Salvador</a>:</strong> Una mezcla de cultura y diversión
+    <ul style="list-style-type: disc; margin-left: 20px;">
+      <li>Juega billar y come choripanes en el bar tradicional <a href="https://maps.app.goo.gl/Th8aGQdyHCjG3ecr7" target="_blank">La Dalia</a></li>
+      <li>Baila en <a href="https://maps.app.goo.gl/GskhAAQAiQMYzqTK7" target="_blank">Cha-Cha-Cha</a></li>
+      <li>Visita el <a href="https://maps.app.goo.gl/RwyAvSuCPFXE73ne6" target="_blank">City Forum Binaes</a> y el <a href="https://maps.app.goo.gl/mTmX39ZK2Joybz9YA" target="_blank">Palacio Nacional</a></li>
+    </ul>
+  </p>
+
+  <p><strong><a href="https://maps.app.goo.gl/HfAkzitkANWixfT96" target="_blank">Peñón de Comasagua</a>:</strong> Pequeña caminata a una roca gigante con vistas increíbles</p>
+
+  <p><strong><a href="https://maps.app.goo.gl/PCX9wYBGzCghttXm6" target="_blank">Cerro Verde</a>:</strong> Naturaleza y vistas
+    <ul style="list-style-type: disc; margin-left: 20px;">
+      <li>Camina al <a href="https://maps.app.goo.gl/R8b8oZCKSjAPq29j8" target="_blank">Volcán de Santa Ana</a> si te animas</li>
+      <li>Disfruta el Volcán de Izalco desde <a href="https://maps.app.goo.gl/PKwFtP81Be7mt3tSA" target="_blank">Casa 1800</a> (lugar perfecto para almorzar o tomar algo)</li>
+      <li>Acampa en <a href="https://maps.app.goo.gl/U3DHYfRLnS2z4HNb7" target="_blank">Casa de Cristal</a> para una noche bajo las estrellas</li>
+    </ul>
+  </p>
+
+  <p><strong><a href="https://maps.app.goo.gl/mk7sDgzhixTkr88u7" target="_blank">Parque El Imposible</a>:</strong> Montones de senderos para caminar y explorar la jungla salvadoreña.</p>
+  </div>
+
+
+  <!-- Overnight Trips -->
+<strong>
+  <div style="font-size: 1.5em; margin-bottom: 0.5em;">
+    <br><br>Viajes de Una Noche
+  </div>
+</strong>
+
+<div style="font-size: 1.2em; margin-bottom: 2em; text-align: left;">
+  <p><strong>Playas en Oriente:</strong></p>
+  <ul style="list-style-type: disc; margin-left: 20px;">
+    <li><strong><a href="https://maps.app.goo.gl/MAHBMhRn5wHxnafTA" target="_blank">El Cuco</a>:</strong> Relájate en <a href="https://maps.app.goo.gl/1F4feTR9Y3vnfint6" target="_blank">La Tortuga</a> para un día completo de playa.</li>
+    <li><strong><a href="https://maps.app.goo.gl/A8DUdHcUU7h4zhad9" target="_blank">Punta Mango</a>:</strong> Visita las playas más salvajes y hermosas del país. ¡Toma una lección de surf! (¡Aquí fue donde nos comprometimos!)</li>
+  </ul>
+  <p><strong><a href="https://maps.app.goo.gl/x4Ln2M9Bu23LeRnc9" target="_blank">Mirador Espíritu de la Montaña</a> (Conchagua):</strong> Trae o alquila una tienda de campaña y disfruta un amanecer impresionante con vistas que se extienden por El Salvador, Honduras y Nicaragua.</p>
+</div>
+
+
+  <!-- longer trips -->
+<strong>
+  <div style="font-size: 1.5em; margin-bottom: 0.5em;">
+    <br><br>Viaje de Varios Días
+  </div>
+</strong>
+
+<div style="font-size: 1.2em; margin-bottom: 2em; text-align: center;">
+  <p>
+    Si te atreves a aventurarte más allá de la frontera de El Salvador, recomendamos altamente una visita a 
+    <a href="https://maps.app.goo.gl/eZDK92rNKvtCtfmy5" target="_blank">Antigua, Guatemala</a> (~5 horas en bus desde San Salvador). 
+    Para la aventura definitiva, camina al 
+    <a href="https://maps.app.goo.gl/k3cTUJebzPf2VEvP6" target="_blank">Volcán Acatenango</a> y pasa una noche inolvidable con un volcán activo haciendo erupción justo frente a tus ojos.
+  </p>
+</div>
+
+
+
+</div>
+
+
+<div style="margin-top: 200px;"></div>   <!-- add blank space above -->
+<hr style="border: none; border-top: 1px solid #aaa; margin: 40px auto; width: 60%;">
+
+
+########################################################################################
+
+---
+title: "Preguntas y Respuestas"
+bg_color: "#FAF3E0"
+color: charcoal
+style: center
+---
+
+<div id="Pre-Wedding" style="padding-top: 0px; margin-top: -200px;"> <!-- avoid empty space after auto-scrolling -->
+
+<div style="margin-top: 80px;"></div>   <!-- add blank space above -->
+
+<!-- Frequently Asked Questions -->
+<div style="
+  color: #2C2C2C;
+  font-family: 'Playfair Display', serif;
+  line-height: 1.5;
+  text-align: center;
+  max-width: 700px;
+  margin: 40px auto;
+">
+
+  <!-- Title -->
+  <strong>
+    <div style="font-size: 2em; margin-bottom: 0.5em;">
+      Preguntas y Respuestas
+    </div>
+  </strong>
+
+  <div style="margin-top: 80px;"></div>   <!-- add blank space above -->
+
+  <!-- Where can I stay? -->
+  <strong>
+    <div style="font-size: 1.3em; margin-bottom: 0.5em;">
+      ¿Dónde puedo hospedarme?
+    </div>
+  </strong>
+  <div style="font-size: 1.2em; margin-bottom: 1.5em;">
+    Recomendaciones de hoteles — Los Airbnb's también son una buena opción. San Salvador tiene muchas opciones para diferentes presupuestos. <br><br>
+    Si te hospedas en un Airbnb, considera áreas como San Benito, Escalón, o Zona Rosa para estar cerca de las zonas de recogida designadas.<br><br>
+  </div>
+
+  <!-- Weather -->
+  <strong>
+    <div style="font-size: 1.3em; margin-bottom: 0.5em;">
+      ¿Cómo estará el clima?
+    </div>
+  </strong>
+  <div style="font-size: 1.2em; margin-bottom: 1.5em;">
+    Marzo es uno de los meses más cálidos del año. En las montañas (como el lugar del evento), las noches pueden ponerse un poco frías, así que empaca un suéter o chaqueta ligera si vas a subir allá.<br><br>
+  </div>
+
+  <!-- Clothes -->
+  <strong>
+    <div style="font-size: 1.3em; margin-bottom: 0.5em;">
+      ¿Qué ropa debo traer?
+    </div>
+  </strong>
+  <div style="font-size: 1.2em; margin-bottom: 1.5em;">
+    Piensa ligero y fresco: camisas de lino, shorts, vestidos. No olvides un traje de baño si planeas ir a la playa, lago o cascadas.<br><br>
+  </div>
+
+  <!-- Transportation -->
+  <strong>
+    <div style="font-size: 1.3em; margin-bottom: 0.5em;">
+      ¿Cómo puedo moverme?
+    </div>
+  </strong>
+  <div style="font-size: 1.2em; margin-bottom: 1.5em;">
+    La forma más fácil es por Uber o Taxis Acacya (un servicio de taxi local confiable).<br><br>
+  </div>
+
+  <!-- Safety -->
+  <strong>
+    <div style="font-size: 1.3em; margin-bottom: 0.5em;">
+      ¿Es seguro?
+    </div>
+  </strong>
+  <div style="font-size: 1.2em; margin-bottom: 1.5em;">
+    ¡Sí, El Salvador ahora es bastante seguro para visitar! Solo mantente consciente de tu entorno, como lo harías en cualquier lugar cuando viajas.<br><br>
+  </div>
+
+  <!-- Hair & Makeup -->
+  <strong>
+    <div style="font-size: 1.3em; margin-bottom: 0.5em;">
+      ¿Dónde puedo arreglarme el cabello y/o maquillaje?
+    </div>
+  </strong>
+  <div style="font-size: 1.2em; margin-bottom: 1.5em;">
+    <strong>Rouge</strong><br>
+    Teléfono: 7883 8680<br>
+    Dirección: Avenida Revolución, Colonia San Benito #1, San Salvador, EL Salvador<br>
+    <a href="https://maps.app.goo.gl/5ogexM8jxzJtoUJv8" target="_blank">Google Maps</a> | 
+    <a href="https://www.instagram.com/rougesv" target="_blank">Instagram</a>
+  </div>
+  <div style="font-size: 1.2em; margin-bottom: 1.5em;">
+    <strong>JR Studio</strong><br>
+    Teléfono: 7045 0464<br>
+    Dirección: Calle La Mascota 940, San Salvador, El Salvador<br>
+    <a href="https://maps.app.goo.gl/6VJaw8cN7MLRp4tA6" target="_blank">Google Maps</a> | 
+    <a href="https://www.instagram.com/jrstudiosalon" target="_blank">Instagram</a>
+  </div>
+  <div style="font-size: 1.2em; margin-bottom: 1.5em;">
+    <strong>Maquillaje en tu ubicación:</strong><br>
+    Andriana Rais: 7743 1518 — <a href="https://www.instagram.com/adrianarais.artist" target="_blank">Instagram</a><br>
+    Valeria Staben — <a href="https://www.instagram.com/valerias" target="_blank">Instagram</a>
+    <br><br>
+  </div>
+
+  <!-- Children -->
+  <strong>
+    <div style="font-size: 1.3em; margin-bottom: 0.5em;">
+      ¿Están invitados los niños?
+    </div>
+  </strong>
+  <div style="font-size: 1.2em; margin-bottom: 1.5em;">
+    Con mucho amor, hemos decidido celebrar nuestra boda como un evento solo para adultos. Gracias por tu comprensión.<br><br>
+  </div>
+
+  <!-- Cash -->
+  <strong>
+    <div style="font-size: 1.3em; margin-bottom: 0.5em;">
+      ¿Debo cargar efectivo?
+    </div>
+  </strong>
+  <div style="font-size: 1.2em;">
+    Sí, especialmente fuera de la ciudad, hay lugares que no aceptan tarjetas de crédito. En El Salvador, la moneda es el dólar estadounidense. Puedes encontrar cajeros automáticos en el aeropuerto, bancos y centros comerciales<br><br>
+  </div>
+
+</div>
+
+
+
+<div style="margin-top: 200px;"></div>   <!-- add blank space above -->
+<hr style="border: none; border-top: 1px solid #aaa; margin: 40px auto; width: 60%;">
+
+########################################################################################
+
+---
+title: "Galería"
+bg_color: "#FAF3E0"
+color: charcoal
+style: center
+---
+
+<div id="Pre-Wedding" style="padding-top: 0px; margin-top: -200px;"> <!-- avoid empty space after auto-scrolling -->
+
+<div style="margin-top: 80px;"></div>   <!-- add blank space above -->
+
+
+<!-- Frequently Asked Questions -->
+<div style="
+  color: #2C2C2C;
+  font-family: 'Playfair Display', serif;
+  line-height: 1.5;
+  text-align: center;
+  max-width: 700px;
+  margin: 40px auto;
+">
+
+  <!-- Title -->
+  <strong>
+    <div style="font-size: 2em; margin-bottom: 0.5em;">
+      Galería de Fotos
+    </div>
+  </strong>
+
+  <div style="margin-top: 80px;"></div>   <!-- add blank space above -->
+
+</div>
+
+
+
+########################################################################################
