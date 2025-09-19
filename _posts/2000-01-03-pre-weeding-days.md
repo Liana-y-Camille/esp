@@ -21,7 +21,7 @@ color: charcoal
     <span style="font-size: 2em;">Día de Playa<br>Pre-Boda</span><br>
     <br>
     <span style="font-size: 1.5em;">Jueves, 12 de Marzo, 2026</span><br><br>
-    <span style="font-size: 1.2em;">09:30 — 18:00</span>
+    <span style="font-size: 1.2em;">9:30 — 18:00</span>
   </strong>
 </div>
 
@@ -69,8 +69,8 @@ color: charcoal
     </div>
   </strong>
   <div style="font-size: 1.2em; margin-bottom: 2em;">
-    Se proporcionará transporte a los huéspedes internacionales desde Hotel Sheraton hasta El Sunzal. <br>
-    Hora de recogida en Hotel Sheraton: <strong>09:30 am</strong> <br>
+    Se proporcionará transporte a los huéspedes internacionales desde <a href="https://maps.app.goo.gl/jkFJ23SHNEhP6SEx9" target="_blank">Hotel Barcelo</a> hasta El Sunzal. <br>
+    Hora de recogida en Hotel Barcelo: <strong>9:30 am</strong> <br>
     Hora de regreso a San Salvador: <strong>18:00 pm</strong>
   </div>
 
@@ -119,7 +119,7 @@ color: charcoal
     <span style="font-size: 2em;">Día en Ataco<br>Pre-Boda</span><br>
     <br>
     <span style="font-size: 1.5em;">Viernes, 13 de Marzo, 2026</span><br><br>
-    <span style="font-size: 1.2em;">08:30 — 16:00</span>
+    <span style="font-size: 1.2em;">8:30 — 16:00</span>
   </strong>
 </div>
 
@@ -166,8 +166,8 @@ color: charcoal
     </div>
   </strong>
   <div style="font-size: 1.2em; margin-bottom: 2em;">
-    Se proporcionará transporte a los huéspedes internacionales desde Hotel Sheraton hasta Ataco. <br>
-    Hora de recogida en Hotel Sheraton: <strong>08:30 am</strong> <br>
+    Se proporcionará transporte a los huéspedes internacionales desde <a href="https://maps.app.goo.gl/jkFJ23SHNEhP6SEx9" target="_blank">Hotel Barcelo</a> hasta Ataco. <br>
+    Hora de recogida en Hotel Barcelo: <strong>8:30 am</strong> <br>
     Hora de regreso a San Salvador: <strong>16:00 pm</strong>
   </div>
 
