@@ -137,7 +137,7 @@ style: center
   <div style="font-size: 1.2em; margin-bottom: 2em;">
     Se proporcionará transporte a los huéspedes internacionales desde <a href="https://maps.app.goo.gl/jkFJ23SHNEhP6SEx9" target="_blank">Hotel Barcelo</a> el lugar de boda. <br>
     Hora de recogida en Hotel Barcelo: <strong>3:30 pm</strong> <br>
-    Hora de regreso a San Salvador: <strong>00:00 am</strong> / <strong>2:00 am</strong>
+    Hora de regreso a San Salvador: <strong>00:00 am</strong> o <strong>2:00 am</strong>
   </div>
 
 </div>
