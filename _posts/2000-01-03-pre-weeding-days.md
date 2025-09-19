@@ -77,7 +77,7 @@ color: charcoal
   <!-- Keep in Mind -->
   <strong>
     <div style="font-size: 1.5em; margin-bottom: 0.5em;">
-      Tené en Cuenta
+      Ten en Cuenta
     </div>
   </strong>
   <div style="font-size: 1.2em;">
@@ -174,7 +174,7 @@ color: charcoal
   <!-- Keep in Mind -->
   <strong>
     <div style="font-size: 1.5em; margin-bottom: 0.5em;">
-      Tené en Cuenta
+      Ten en Cuenta
     </div>
   </strong>
   <div style="font-size: 1.2em;">
