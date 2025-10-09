@@ -58,7 +58,7 @@ color: charcoal
 
   <!-- Intro Text -->
   <div style="font-size: 1.2em; margin-bottom: 2em;">
-    ¡Traé tu ropa de playa! <br><br>
+    ¡Trae tu ropa de playa! <br><br>
     Para comenzar las celebraciones, invitamos a nuestros amigos y familia del extranjero a disfrutar de un día relajado y divertido con nosotros en la playa.
   </div>
 
@@ -178,7 +178,7 @@ color: charcoal
     </div>
   </strong>
   <div style="font-size: 1.2em;">
-    • Empacá un par de zapatos cómodos para que puedas explorar el pueblo fácilmente.<br>
+    • Empaca un par de zapatos cómodos para que puedas explorar el pueblo fácilmente.<br>
     • Se proporcionará comida y bebidas.<br>
     • Por favor confirmar asistencia con Camille (+33670831699).
   </div>
