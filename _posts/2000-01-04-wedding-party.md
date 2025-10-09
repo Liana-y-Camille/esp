@@ -113,7 +113,7 @@ style: center
   <div style="font-size: 1.2em; margin-bottom: 2em;">
     Trajes, corbatas, vestidos largos y vestidos de gala. <br><br>
     Si usas vestido, recomendamos un chal o chaqueta liviana ya que puede hacer frío en la noche. <br><br>
-    Por favor considerá el pasto.<br><br>
+    Por favor considerar el pasto.<br><br>
   </div>
 
 
