@@ -122,74 +122,109 @@
   San Salvador,<br />El Salvador
 </div>
 
-<!-- Language selector -->
-<div style="text-align:center; margin: 200px 0;">
-  <div style="display:inline-flex; gap:14px; align-items:center; justify-content:center; flex-wrap:wrap;">
+<!-- Language Selector -->
+<div class="language-switcher" style="text-align:center; margin: 30px 0; position:relative; display:inline-block;">
+  
+  <!-- Main Button -->
+  <button onclick="toggleLangMenu()">
+    Idioma
+  </button>
 
-    <a href="https://liana-y-camille.github.io" aria-label="English" style="
-      display:inline-block;
-      min-width:120px;
-      padding:6px 11px;
-      border-radius:12px;
-      border:2px solid #9f7148;
-      background:#FAF3E0;
-      color:#2C2C2C;
-      text-decoration:none;
-      font-family:'Playfair Display', serif;
-      font-size:1.05em;
-      font-weight:600;
-      text-align:center;
-      transition: transform .18s ease, box-shadow .18s ease;
-      box-shadow: 0 4px 8px rgba(0,0,0,0.04);
-    " onmouseover="this.style.transform='translateY(-3px)';this.style.boxShadow='0 10px 18px rgba(0,0,0,0.08)';" onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 4px 8px rgba(0,0,0,0.04)';">
-      English
-    </a>
-
-    <a href="https://liana-y-camille.github.io/fr/" aria-label="Français" style="
-      display:inline-block;
-      min-width:120px;
-      padding:6px 11px;
-      border-radius:12px;
-      border:2px solid #9f7148;
-      background:#FAF3E0;
-      color:#2C2C2C;
-      text-decoration:none;
-      font-family:'Playfair Display', serif;
-      font-size:1.05em;
-      font-weight:600;
-      text-align:center;
-      transition: transform .18s ease, box-shadow .18s ease;
-      box-shadow: 0 4px 8px rgba(0,0,0,0.04);
-    " onmouseover="this.style.transform='translateY(-3px)';this.style.boxShadow='0 10px 18px rgba(0,0,0,0.08)';" onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 4px 8px rgba(0,0,0,0.04)';">
-      Français
-    </a>
-
-    <a href="https://liana-y-camille.github.io/esp/" aria-label="Español" style="
-      display:inline-block;
-      min-width:120px;
-      padding:6px 11px;
-      border-radius:12px;
-      border:2px solid #9f7148;
-      background:#FAF3E0;
-      color:#2C2C2C;
-      text-decoration:none;
-      font-family:'Playfair Display', serif;
-      font-size:1.05em;
-      font-weight:600;
-      text-align:center;
-      transition: transform .18s ease, box-shadow .18s ease;
-      box-shadow: 0 4px 8px rgba(0,0,0,0.04);
-    " onmouseover="this.style.transform='translateY(-3px)';this.style.boxShadow='0 10px 18px rgba(0,0,0,0.08)';" onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 4px 8px rgba(0,0,0,0.04)';">
-      Español
-    </a>
-
-  </div>
-
-  <!-- small caption or not -->
-  <div style="font-size:0.95em; color:#666; margin-top:0px; font-family: 'Raleway', Arial, sans-serif;">
-    <br /><br /><br />
-  </div>
+<!-- Dropdown Menu -->
+<div id="langMenu" style="
+  display:none;
+  position:absolute;
+  top:110%;
+  left:50%;
+  transform:translateX(-50%);
+  background:#FAF3E0;
+  border:2px solid #2C2C2C;
+  border-radius:12px;
+  padding:10px;
+  box-shadow: 0 6px 12px rgba(0,0,0,0.12);
+  text-align:center;
+  z-index:999;
+">
+  <a href="https://liana-y-camille.github.io" style="display:block; margin-bottom:12px;">
+    <img src="/assets/img/flag_en.png" alt="English" />
+  </a>
+  <a href="https://liana-y-camille.github.io/fr/" style="display:block; margin-bottom:12px;">
+    <img src="/assets/img/flag_fr.png" alt="Français" />
+  </a>
+  <a href="https://liana-y-camille.github.io/esp/" style="display:block; margin-bottom:0;">
+    <img src="/assets/img/flag_es.png" alt="Español" />
+  </a>
 </div>
+
+
+</div>
+
+<!-- Language Dropdown Script -->
+<script>
+function toggleLangMenu() {
+  const menu = document.getElementById("langMenu");
+  menu.style.display = (menu.style.display === "block") ? "none" : "block";
+}
+
+document.addEventListener("click", function(event) {
+  const menu = document.getElementById("langMenu");
+  const button = event.target.closest("button");
+  if (!menu.contains(event.target) && !button) {
+    menu.style.display = "none";
+  }
+});
+</script>
+
+<!-- Language Switcher Styling -->
+<style>
+.language-switcher button {
+  display: inline-block;
+  min-width: 140px;
+  padding: 10px 18px;
+  border-radius: 8px;
+  border: 0;
+  background: #2C2C2C;
+  color: #CAC9CA;
+  font-family: 'Raleway', sans-serif;
+  font-size: 1em;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  cursor: pointer;
+  transition: background 0.2s ease, transform 0.18s ease;
+}
+
+.language-switcher button:hover {
+  background: #494949;
+  transform: translateY(-2px);
+}
+
+#langMenu {
+  display: none;
+  position: absolute;
+  top: 110%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #2C2C2C;
+  padding: 6px 10px;
+  text-align: center;
+  border-radius: 0;
+  z-index: 999;
+}
+
+#langMenu a img {
+  width: 32px;
+  height: auto;
+  margin: 0 5px;
+  border: 1px solid #FAF3E0;
+  border-radius: 4px;
+}
+
+#langMenu a:hover img {
+  transform: translateY(-2px);
+  transition: transform 0.18s ease;
+}
+</style>
 
 <div style="margin-top: 240px;"></div>
 <p><!-- add blank space above --></p>
@@ -269,7 +304,7 @@
 
   <!-- Intro Text -->
   <div style="font-size: 1.2em; margin-bottom: 2em;">
-    ¡Traé tu ropa de playa! <br /><br />
+    ¡Trae tu ropa de playa! <br /><br />
     Para comenzar las celebraciones, invitamos a nuestros amigos y familia del extranjero a disfrutar de un día relajado y divertido con nosotros en la playa.
   </div>
 
@@ -389,7 +424,7 @@
     </div>
   </strong>
   <div style="font-size: 1.2em;">
-    • Empacá un par de zapatos cómodos para que puedas explorar el pueblo fácilmente.<br />
+    • Empaca un par de zapatos cómodos para que puedas explorar el pueblo fácilmente.<br />
     • Se proporcionará comida y bebidas.<br />
     • Por favor confirmar asistencia con Camille (+33670831699).
   </div>
@@ -458,7 +493,7 @@
   margin: 40px auto;
 ">
   <p style="font-size: 1.2em;">
-    Nuestra boda se llevará a cabo en el lugar 'Fôret', a solo 15 minutos de la ciudad, en las colinas de Comasagua. Con su amplia terraza, gran jardín y vistas impresionantes, ¡sentimos que era el lugar perfecto para decir <em>sí</em> y celebrar con vos!
+    Nuestra boda se llevará a cabo en el lugar 'Fôret', a solo 15 minutos de la ciudad, en las colinas de Comasagua. Con su amplia terraza, gran jardín y vistas impresionantes, ¡sentimos que era el lugar perfecto para decir <em>sí</em> y celebrar con ustedes!
   </p>
 </div>
 
@@ -523,7 +558,7 @@
   <div style="font-size: 1.2em; margin-bottom: 2em;">
     Trajes, corbatas, vestidos largos y vestidos de gala. <br /><br />
     Si usas vestido, recomendamos un chal o chaqueta liviana ya que puede hacer frío en la noche. <br /><br />
-    Por favor considerá el pasto.<br /><br />
+    Por favor considerar el pasto.<br /><br />
   </div>
 
 
@@ -604,7 +639,7 @@
   margin: 40px auto;
 ">
   <p style="font-size: 1.2em;">
-    ¡Tenerte con nosotros en nuestro día de boda es el mejor regalo! Como nuestra vida está llena de viajes y cambios, estaríamos agradecidos por regalos que sean principalmente monetarios, ayudándonos a crear recuerdos dondequiera que la vida nos lleve.
+    ¡Tenerte con nosotros en nuestro día de boda es el mayor regalo! Si deseas apoyarnos mientras comenzamos este nuevo capítulo de nuestras vidas, por favor sigue el link de la mesa de regalo.
   </p>
 </div>
 
@@ -612,8 +647,7 @@
   <!-- LINKS for regalos -->
 <div style="display: flex; flex-direction: column; gap: 20px; max-width: 500px; margin: 40px auto;">
 
-  <!-- Cash Gift -->
-  <a href="YOUR_CASH_GIFT_LINK" target="_blank" style="
+  <a href="https://www.myregistry.com/wedding-registry/camille-le-roy-and-liana-villavicencio-san-salvador-san-salvador/5038348" target="_blank" style="
       text-decoration: none;
       padding: 20px;
       border: 2px solid #9f7148ff;
@@ -625,40 +659,7 @@
       color: #2C2C2C;
       transition: transform 0.2s ease, box-shadow 0.2s ease;
   " onmouseover="this.style.transform='scale(1.03)';this.style.boxShadow='0 6px 10px rgba(0,0,0,0.1)'" onmouseout="this.style.transform='scale(1)';this.style.boxShadow='0 4px 6px rgba(0,0,0,0.05)'">
-    <strong style="font-size: 1.4em;">Pórtico Real
-</strong>
-  </a>
-
-  <!-- Siman -->
-  <a href="YOUR_SIMAN_LINK" target="_blank" style="
-      text-decoration: none;
-      padding: 20px;
-      border: 2px solid #9f7148ff;
-      border-radius: 12px;
-      background-color: #FAF3E0;
-      box-shadow: 0 4px 6px rgba(0,0,0,0.05);
-      font-family: 'Playfair Display', serif;
-      text-align: center;
-      color: #2C2C2C;
-      transition: transform 0.2s ease, box-shadow 0.2s ease;
-  " onmouseover="this.style.transform='scale(1.03)';this.style.boxShadow='0 6px 10px rgba(0,0,0,0.1)'" onmouseout="this.style.transform='scale(1)';this.style.boxShadow='0 4px 6px rgba(0,0,0,0.05)'">
-    <strong style="font-size: 1.4em;">Siman</strong>
-  </a>
-
-  <!-- Zola -->
-  <a href="YOUR_ZOLA_LINK" target="_blank" style="
-      text-decoration: none;
-      padding: 20px;
-      border: 2px solid #9f7148ff;
-      border-radius: 12px;
-      background-color: #FAF3E0;
-      box-shadow: 0 4px 6px rgba(0,0,0,0.05);
-      font-family: 'Playfair Display', serif;
-      text-align: center;
-      color: #2C2C2C;
-      transition: transform 0.2s ease, box-shadow 0.2s ease;
-  " onmouseover="this.style.transform='scale(1.03)';this.style.boxShadow='0 6px 10px rgba(0,0,0,0.1)'" onmouseout="this.style.transform='scale(1)';this.style.boxShadow='0 4px 6px rgba(0,0,0,0.05)'">
-    <strong style="font-size: 1.4em;">Zola</strong>
+    <strong style="font-size: 1.4em;">Mesa de Regalos</strong>
   </a>
 
 </div>
@@ -725,9 +726,19 @@
   <div style="font-size: 1.2em; text-align: center; margin-bottom: 1.5em;">
     <strong>Taxi:</strong> Los Taxis Acacya usualmente están esperando afuera del aeropuerto. La tarifa es alrededor de $30—35 USD. Si llegas tarde en la noche, es mejor reservar con anticipación.
   </div>
-  <div style="font-size: 1.2em; text-align: center; margin-bottom: 1.5em;">
-    <strong>Servicio de Transporte:</strong> Don Bosco Travel — Contacto: +503 7820-5478. La tarifa es alrededor de $$$.<br /><br />
-  </div>
+
+<div style="font-size: 1.2em; text-align: center; margin-bottom: 1.5em;">
+  <strong>Reserva un traslado desde el aeropuerto con </strong> 
+  <strong>Bosco Travel</strong>: han creado una spreadsheet especial para los invitados de nuestra boda. La tarifa es de aproximadamente $40, dependiendo de la hora de llegada.
+</div>
+
+<div style="text-align: center; margin-bottom: 2em;">
+  <a href="https://docs.google.com/spreadsheets/d/1v058LDRKlSAfn5M40P4jeU85M_csrpMajg-tOPvcqvQ/edit?gid=0#gid=0" target="_blank" style="display: inline-block; background-color: #2C2C2C; color: white; font-weight: bold; padding: 8px 14px; border-radius: 30px; text-decoration: none; font-size: 1.1em;">
+    Reservar traslado desde el aeropuerto
+  </a>
+</div>
+
+  <br /><br />
 
   <!-- Hotels -->
   <strong>
