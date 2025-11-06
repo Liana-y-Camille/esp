@@ -120,11 +120,16 @@ style: center
   <!-- Civil Ceremony -->
   <strong>
     <div style="font-size: 1.5em; margin-bottom: 0.5em;">
-      Ceremonia Civil
+      Ceremonia Civil y Fiesta
     </div>
   </strong>
   <div style="font-size: 1.2em; margin-bottom: 2em;">
     La ceremonia civil se llevará a cabo en el mismo lugar que el resto del evento, seguida de un cóctel de recepción, cena y fiesta.<br><br>
+  </div>
+
+
+<div style="font-size: 1.2em; margin-bottom: 2em;">
+    Si tiene alguna dieta o restricción alimentaria especial, por favor infórmeselo a Camille (+33670831699)<br><br>
   </div>
 
 
