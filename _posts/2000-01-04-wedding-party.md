@@ -45,7 +45,7 @@ style: center
   margin: 40px auto;
 ">
   <p style="font-size: 1.2em;">
-    Nuestra boda se llevará a cabo en el lugar 'Fôret', a solo 15 minutos de la ciudad, en las colinas de Comasagua. Con su amplia terraza, gran jardín y vistas impresionantes, ¡sentimos que era el lugar perfecto para decir <em>sí</em> y celebrar con ustedes!
+    Nuestra boda se llevará a cabo en el lugar 'Forêt', a solo 15 minutos de la ciudad, en las colinas de Comasagua. Con su amplia terraza, gran jardín y vistas impresionantes, ¡sentimos que era el lugar perfecto para decir <em>sí</em> y celebrar con ustedes!
   </p>
 </div>
 
