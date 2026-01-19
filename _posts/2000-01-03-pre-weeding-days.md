@@ -115,7 +115,7 @@ color: charcoal
     <span style="font-size: 2em;">Día de Playa<br>Pre-Boda</span><br>
     <br>
     <span style="font-size: 1.5em;">Viernes, 13 de Marzo, 2026</span><br><br>
-    <span style="font-size: 1.2em;">9:30 — 18:00</span>
+    <span style="font-size: 1.2em;">11:30 — 18:00</span>
   </strong>
 </div>
 
@@ -153,7 +153,7 @@ color: charcoal
   <!-- Intro Text -->
   <div style="font-size: 1.2em; margin-bottom: 2em;">
     ¡Trae tu ropa de playa! <br><br>
-    Invitamos a nuestros amigos y familia del extranjero a disfrutar de un día relajado y divertido con nosotros en la playa.
+    Invitamos a nuestros amigos y familia del extranjero a disfrutar de una tarde relajada y divertida con nosotros en la playa.
   </div>
 
   <!-- Shuttle Service Info -->
@@ -164,7 +164,7 @@ color: charcoal
   </strong>
   <div style="font-size: 1.2em; margin-bottom: 2em;">
     Se proporcionará transporte a los huéspedes internacionales desde <a href="https://maps.app.goo.gl/jkFJ23SHNEhP6SEx9" target="_blank">Hotel Barcelo</a> hasta El Sunzal. <br>
-    Hora de recogida en Hotel Barcelo: <strong>9:30 am</strong> <br>
+    Hora de recogida en Hotel Barcelo: <strong>11:30 am</strong> <br>
     Hora de regreso a San Salvador: <strong>18:00 pm</strong>
   </div>
 
@@ -176,7 +176,7 @@ color: charcoal
   </strong>
   <div style="font-size: 1.2em;">
     • Traé traje de baño, toalla, lentes de sol, bloqueador, chancletas y ropa liviana. <br>
-    • Se proporcionará comida y bebidas. <br>
+    • Se proporcionará bebidas y snacks. <br>
     • Por favor confirmar asistencia con Camille (+33670831699).
   </div>
 
