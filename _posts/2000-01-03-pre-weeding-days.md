@@ -115,7 +115,7 @@ color: charcoal
     <span style="font-size: 2em;">Día de Playa<br>Pre-Boda</span><br>
     <br>
     <span style="font-size: 1.5em;">Viernes, 13 de Marzo, 2026</span><br><br>
-    <span style="font-size: 1.2em;">11:30 — 18:00</span>
+    <span style="font-size: 1.2em;">13:00 — 19:00</span>
   </strong>
 </div>
 
@@ -164,8 +164,8 @@ color: charcoal
   </strong>
   <div style="font-size: 1.2em; margin-bottom: 2em;">
     Se proporcionará transporte a los huéspedes internacionales desde <a href="https://maps.app.goo.gl/jkFJ23SHNEhP6SEx9" target="_blank">Hotel Barcelo</a> hasta El Sunzal. <br>
-    Hora de recogida en Hotel Barcelo: <strong>11:30 am</strong> <br>
-    Hora de regreso a San Salvador: <strong>18:00 pm</strong>
+    Hora de recogida en Hotel Barcelo: <strong>13:00 am</strong> <br>
+    Hora de regreso a San Salvador: <strong>19:00 pm</strong>
   </div>
 
   <!-- Keep in Mind -->
