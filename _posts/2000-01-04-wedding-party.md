@@ -94,8 +94,7 @@ style: center
   </strong>
 
    <div style="font-size: 1.4em; margin-bottom: 2em;">
-   Los esperamos a las 4:00 p.m. para compartir juntos. <br>
-   La ceremonia empezará a las 4:30 p.m.<br><br>
+   Los esperamos a las 4:00 p.m. para compartir juntos. <br><br>
    </div> 
 
   <!-- Image of the attire (centered) -->
