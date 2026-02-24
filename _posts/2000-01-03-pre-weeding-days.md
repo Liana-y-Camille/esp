@@ -71,7 +71,7 @@ color: charcoal
 <!-- White Party Theme -->
   <strong>
     <div style="font-size: 1.5em; margin-bottom: 0.3em;">
-      "Día de Blanco"
+      "White Party" Theme
     </div>
   </strong>
   <div style="font-size: 1.2em; margin-bottom: 0.5em;">
@@ -88,7 +88,6 @@ color: charcoal
       border-radius: 8px; /* optional: soften corners */
     "></div> 
   </div>
-
 
   <!-- Shuttle Service Info -->
   <strong>
