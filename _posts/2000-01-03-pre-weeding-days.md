@@ -67,6 +67,29 @@ color: charcoal
     Para comenzar las celebraciones, invitamos cordialmente a los amigos y familia que viajan del extranjero a acompañarnos para almorzar en la casa de campo de Liana, seguido de una visita a Ataco, un pueblo encantador en las montañas de El Salvador.
   </div>
 
+
+<!-- White Party Theme -->
+  <strong>
+    <div style="font-size: 1.5em; margin-bottom: 0.3em;">
+      "Día de Blanco"
+    </div>
+  </strong>
+  <div style="font-size: 1.2em; margin-bottom: 0.5em;">
+    ¡Comencemos la celebración con estilo! Los invitamos a <strong>vestir de blanco</strong> para este día.
+  </div>
+
+   <!-- Image of the attire (centered) -->
+  <div style="display: flex; justify-content: center; margin-bottom: 3em;">
+    <div style="
+      width: 40%;
+      aspect-ratio: 1 / 1;
+      background: url('/assets/img/white_attire_gemini.png') no-repeat center center;
+      background-size: contain; /* keeps proportions */
+      border-radius: 8px; /* optional: soften corners */
+    "></div> 
+  </div>
+
+
   <!-- Shuttle Service Info -->
   <strong>
     <div style="font-size: 1.5em; margin-bottom: 0.5em;">
